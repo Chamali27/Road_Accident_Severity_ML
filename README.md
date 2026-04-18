@@ -36,8 +36,6 @@ Road_Accident_Severity_ML/
 │
 └── README.md
 ```
-
-
 ---
 
 ## Dataset
@@ -130,6 +128,17 @@ Future improvements:
 - Advanced imbalance handling techniques  
 
 ---
+
+## Authors / Team Members
+
+Chamali Abeysekara  
+BSc in Applied Data Science Communication  
+
+Team Members / Contributors:
+
+RL Hewanayaka  
+MZM Hussein  
+MN Mohamed 
 
 
 ---
