@@ -77,8 +77,8 @@ The following machine learning models were implemented:
 - Data preprocessing and feature selection  
 - Binary classification (high vs low severity)  
 - Train-test split (80/20)  
-- Model training and evaluation  
-
+- Model training and evaluation
+  
 Evaluation metrics:
 - Accuracy  
 - Precision  
