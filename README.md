@@ -23,7 +23,7 @@ The project compares different machine learning models and analyzes key factors 
 
 ## Folder Structure
 ```
-Road_Accident_Severity_ML/
+Road-Accident-Severity-ML/
 │
 ├── Research Paper/
 │ └── Research Paper.pdf
